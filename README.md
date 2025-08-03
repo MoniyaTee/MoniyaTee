@@ -2,7 +2,7 @@
 # Hello there; welcome 👋🏾
 
 
-I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at [Commerce Layer](https://commercelayer.io). I'm passionate about learning, sharing knowledge, documentation, web engineering , and others. I build useful [open-source projects](https://github.com/BolajiAyodeji), speak at some meetups/conferences, build technical communities...
+I'm a Software Engineer, Content Creator and a Linguist. I'm passionate about language and Tech, especially in the area of African Language, learning, sharing knowledge, documentation, web engineering , and others. I build useful [open-source projects](https://github.com/MoniyaTee), build technical communities...
 
 **Here's a quick summary about me**:
 
@@ -15,6 +15,6 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+
 | ------------- | ------------- |
 
